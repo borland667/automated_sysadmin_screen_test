@@ -68,11 +68,11 @@ First thing you need to use this toolkit is [Vagrant 1.1+](http://www.vagrantup.
     [default]  -- Type: m1.small
     [default]  -- AMI: ami-7a4c2c13
     [default]  -- Region: us-east-1
-    [default]  -- Keypair: devops-screentest-keypair
+    [default]  -- Keypair: screentest-keypair
     [default] Waiting for instance to become "ready"...
     [default] Waiting for SSH to become available...
     [default] Machine is booted and ready for use!
-    [default] Rsyncing folder: /Users/abhishek/workspace/automated_sysadmin_screentest/supervillain/ => /vagrant
+    [default] Rsyncing folder: /Users/star/workspace/automated_sysadmin_screentest/supervillain/ => /vagrant
     .
     .
     .
@@ -118,6 +118,9 @@ That's about it, you can now share the instance detail with the candidate and le
 This will decide if the candidate has passed the test or not
 
 
+### ... and Hey [we are hiring so best way to try this out is to apply for the job](https://gist.github.com/parolkar/7c524d02561b0718b14c) :)
+<br/>
+<br/>
 
 
 <sub>***************************************</sub>
@@ -127,4 +130,5 @@ This will decide if the candidate has passed the test or not
  <sub>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</sub>
  <sub>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</sub>
  <sub>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</sub>
+
 
